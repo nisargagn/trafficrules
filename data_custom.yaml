@@ -1,0 +1,16 @@
+train: D:\YoloAllProjects\Projects\TrafficRulesViolations\dataset\train
+val: D:\YoloAllProjects\Projects\TrafficRulesViolations\dataset\val
+
+nc: 3
+names: [ "Helmet",
+           "No_Helmet",
+           "Overload"]
+
+
+
+
+
+
+
+
+
